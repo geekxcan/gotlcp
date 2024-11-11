@@ -1,4 +1,4 @@
-module gitee.com/Trisia/gotlcp
+module github.com/geekxcan/gotlcp
 
 go 1.18
 
