@@ -1,6 +1,6 @@
 package main
 
-import "gitee.com/Trisia/gotlcp/tlcp"
+import "github.com/geekxcan/gotlcp/tlcp"
 
 func main() {
 	// 解析签名密钥对 及 签名证书

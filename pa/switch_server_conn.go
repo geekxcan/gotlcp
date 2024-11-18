@@ -3,7 +3,7 @@ package pa
 import (
 	"crypto/tls"
 	"fmt"
-	"gitee.com/Trisia/gotlcp/tlcp"
+	"github.com/geekxcan/gotlcp/tlcp"
 	"net"
 	"sync"
 )

@@ -68,7 +68,7 @@ func main() {
 package main
 
 import (
-	"gitee.com/Trisia/gotlcp/tlcp"
+	"github.com/geekxcan/gotlcp/tlcp"
 	"github.com/emmansun/gmsm/smx509"
 )
 
@@ -105,7 +105,7 @@ func main() {
 package main
 
 import (
-	"gitee.com/Trisia/gotlcp/tlcp"
+	"github.com/geekxcan/gotlcp/tlcp"
 )
 
 func main() {
@@ -153,7 +153,7 @@ TLCP协议支持两种握手握手方式：
 package main
 
 import (
-	"gitee.com/Trisia/gotlcp/tlcp"
+	"github.com/geekxcan/gotlcp/tlcp"
 	"github.com/emmansun/gmsm/smx509"
 )
 
@@ -209,7 +209,7 @@ package main
 
 import (
 	"net"
-	"gitee.com/Trisia/gotlcp/tlcp"
+	"github.com/geekxcan/gotlcp/tlcp"
 )
 
 func main() {

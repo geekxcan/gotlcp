@@ -17,7 +17,7 @@ package main
 import (
 	"crypto/tls"
 	"gitee.com/Trisia/gotlcp/pa"
-	"gitee.com/Trisia/gotlcp/tlcp"
+	"github.com/geekxcan/gotlcp/tlcp"
 )
 
 func main() {

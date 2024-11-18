@@ -31,7 +31,7 @@ TLCP协议服务端对客户端有如下认证类型：
 package main
 
 import (
-	"gitee.com/Trisia/gotlcp/tlcp"
+	"github.com/geekxcan/gotlcp/tlcp"
 )
 
 func main() {
@@ -70,7 +70,7 @@ func main() {
 package main
 
 import (
-	"gitee.com/Trisia/gotlcp/tlcp"
+	"github.com/geekxcan/gotlcp/tlcp"
 	"github.com/emmansun/gmsm/smx509"
 )
 
@@ -130,7 +130,7 @@ TLCP协议支持两种握手握手方式：
 package main
 
 import (
-	"gitee.com/Trisia/gotlcp/tlcp"
+	"github.com/geekxcan/gotlcp/tlcp"
 )
 
 func main() {
@@ -171,7 +171,7 @@ func main() {
 package main
 
 import (
-	"gitee.com/Trisia/gotlcp/tlcp"
+	"github.com/geekxcan/gotlcp/tlcp"
 	"net"
 )
 

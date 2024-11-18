@@ -2,7 +2,7 @@ package https
 
 import (
 	"context"
-	"gitee.com/Trisia/gotlcp/tlcp"
+	"github.com/geekxcan/gotlcp/tlcp"
 	"net"
 	"net/http"
 	"time"

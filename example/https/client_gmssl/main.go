@@ -5,8 +5,8 @@ import (
 	"os"
 
 	"gitee.com/Trisia/gotlcp/https"
-	"gitee.com/Trisia/gotlcp/tlcp"
 	"github.com/emmansun/gmsm/smx509"
+	"github.com/geekxcan/gotlcp/tlcp"
 )
 
 // 测试ECDHE 客户端

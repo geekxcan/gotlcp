@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"gitee.com/Trisia/gotlcp/tlcp"
+	"github.com/geekxcan/gotlcp/tlcp"
 )
 
 // 无身份认证 仅用于测试

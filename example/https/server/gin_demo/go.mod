@@ -3,7 +3,7 @@ module gin_demo
 go 1.18
 
 require (
-	gitee.com/Trisia/gotlcp v1.3.18
+	gitee.com/Trisia/gotlcp v1.3.24
 	github.com/gin-gonic/gin v1.9.1
 )
 

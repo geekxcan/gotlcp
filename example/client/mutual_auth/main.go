@@ -2,8 +2,8 @@ package main
 
 import (
 	"fmt"
-	"gitee.com/Trisia/gotlcp/tlcp"
 	"github.com/emmansun/gmsm/smx509"
+	"github.com/geekxcan/gotlcp/tlcp"
 )
 
 // 客户端双向身份认证

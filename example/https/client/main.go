@@ -2,8 +2,8 @@ package main
 
 import (
 	"gitee.com/Trisia/gotlcp/https"
-	"gitee.com/Trisia/gotlcp/tlcp"
 	"github.com/emmansun/gmsm/smx509"
+	"github.com/geekxcan/gotlcp/tlcp"
 	"io"
 	"os"
 )

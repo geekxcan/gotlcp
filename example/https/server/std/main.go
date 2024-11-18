@@ -1,7 +1,7 @@
 package main
 
 import (
-	"gitee.com/Trisia/gotlcp/tlcp"
+	"github.com/geekxcan/gotlcp/tlcp"
 	"net/http"
 )
 

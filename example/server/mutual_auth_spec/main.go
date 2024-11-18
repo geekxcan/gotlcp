@@ -5,8 +5,8 @@ import (
 	"net"
 	"time"
 
-	"gitee.com/Trisia/gotlcp/tlcp"
 	"github.com/emmansun/gmsm/smx509"
+	"github.com/geekxcan/gotlcp/tlcp"
 )
 
 // 测试时服务器时间，防止证书过期

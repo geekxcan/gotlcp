@@ -26,7 +26,7 @@ TLCP协议作为传输层密码协议，在握手完成后认为建立TLCP连接
 package main
 
 import (
-	"gitee.com/Trisia/gotlcp/tlcp"
+	"github.com/geekxcan/gotlcp/tlcp"
 	"net/http"
 )
 
@@ -73,7 +73,7 @@ func main() {
 package main
 
 import (
-	"gitee.com/Trisia/gotlcp/tlcp"
+	"github.com/geekxcan/gotlcp/tlcp"
 	"github.com/gin-gonic/gin"
 	"net/http"
 )
@@ -116,7 +116,7 @@ func main() {
 package main
 
 import (
-	"gitee.com/Trisia/gotlcp/tlcp"
+	"github.com/geekxcan/gotlcp/tlcp"
 	"github.com/gofiber/fiber/v2"
 )
 
@@ -156,7 +156,7 @@ package main
 
 import (
 	"gitee.com/Trisia/gotlcp/https"
-	"gitee.com/Trisia/gotlcp/tlcp"
+	"github.com/geekxcan/gotlcp/tlcp"
 	"io"
 	"os"
 )
@@ -208,7 +208,7 @@ package main
 import (
 	"crypto/tls"
 	"gitee.com/Trisia/gotlcp/pa"
-	"gitee.com/Trisia/gotlcp/tlcp"
+	"github.com/geekxcan/gotlcp/tlcp"
 	"net/http"
 )
 

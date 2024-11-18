@@ -3,7 +3,7 @@ module fiber_demo
 go 1.18
 
 require (
-	gitee.com/Trisia/gotlcp v1.3.18
+	gitee.com/Trisia/gotlcp v1.3.24
 	github.com/gofiber/fiber/v2 v2.52.0
 )
 

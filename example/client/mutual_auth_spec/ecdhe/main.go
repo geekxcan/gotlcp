@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"time"
 
-	"gitee.com/Trisia/gotlcp/tlcp"
 	"github.com/emmansun/gmsm/smx509"
+	"github.com/geekxcan/gotlcp/tlcp"
 )
 
 // 测试时服务器时间，防止证书过期
@@ -30,7 +30,7 @@ func main() {
 			tlcp.ECDHE_SM4_CBC_SM3,
 			// 注意：不能出现 ECC 系列套件，否则服务端可能选择ECC系列套件。
 		},
-		Time: runtimeTime,
+		Time:        runtimeTime,
 		EnableDebug: true,
 	}
 	//// 兼容向量模式的密钥交换参数
